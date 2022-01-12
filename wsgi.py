@@ -1,2 +1,2 @@
-from app.server import main
-main()
+from app.server import app
+app.run()

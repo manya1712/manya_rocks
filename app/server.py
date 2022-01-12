@@ -41,5 +41,3 @@ def submit_form():
 	    return 'smthin went wrong'	
 def main():
 	app.run()
-
-main()
